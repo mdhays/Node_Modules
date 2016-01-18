@@ -11,3 +11,7 @@ An important aside; Node must be restarted after changing files in order
 for those changes to take affect.
 
 Look into browserify and webpack (just out of curiousity).
+
+Read up and tell class tomorrow about my assigned module.
+
+Watch the presentation by the guy who invented node.
